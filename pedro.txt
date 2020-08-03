@@ -1,0 +1,1 @@
+Structured Programming Control Structures Subprograms Recursion Arrays Files paradigms Functional Dataflow Logic  Template-based Structured
